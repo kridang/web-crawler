@@ -64,9 +64,9 @@ These results suggest that online representations of Vietnam vary significantly 
 
 ## Data (CSV)
 
-- [Vietnam Search Results](assets/search-result-1.csv)
-- [Ho Chi Minh City Search Results](assets/search-result-2.csv)
-- [Vietnam Culture Search Results](assets/search-result-3.csv)
+- [Vietnam Search Results](assets/vietnam-1.csv)
+- [Ho Chi Minh City Search Results](assets/vietnam-culture-2.csv)
+- [Vietnam Culture Search Results](assets/ho-chi-minh-city-3.csv)
 
 ---
 
